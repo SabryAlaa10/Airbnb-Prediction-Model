@@ -63,6 +63,12 @@ This project demonstrates how machine learning can be used to analyze and accura
 
 ---
 
+🖥️ Desktop Application:
+
+The file airbnb_predictor.py is a desktop application built to allow users to easily interact with the trained model and predict Airbnb rental prices by entering property details.
+
+
+
 ## Project Links
 
 - [GitHub Repository](https://github.com/SabryAlaa10/Airbnb-Prediction-Model)
